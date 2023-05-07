@@ -1,6 +1,13 @@
 # Delta
+Delta is a React web application where you can navigate the different pages and we can check the details of that Pages.
+
+# Snapshot
 
 ![Interface of Delta](Delta.png)
+
+# Demo
+
+[Delta - Live ◀️](https://delta-dhyan110.netlify.app)
 
 ## Project setup
 
