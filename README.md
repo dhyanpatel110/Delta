@@ -1,12 +1,6 @@
-# Interface of Delta
+# Delta
 
 ![Interface of Delta](Delta.png)
-
-# Delta React
-
-## Description
-
-Setup Procedure
 
 ## Project setup
 
