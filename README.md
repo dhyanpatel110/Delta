@@ -11,6 +11,14 @@ Delta is a React web application where you can navigate the different pages and 
 
 ## Project setup
 
+### Clone this repo
+
+```
+git clone https://github.com/dhyanpatel110/Delta.git
+```
+
+### Install dependencies
+
 ```
 npm install
 ```
