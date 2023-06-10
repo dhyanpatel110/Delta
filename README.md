@@ -7,7 +7,7 @@ Delta is a React web application where you can navigate the different pages and 
 
 # Demo
 
-[Delta - Live ◀️](https://delta-dhyan110.netlify.app)
+[Delta - Live ◀️](https://delta-dhyanpatel110.vercel.app)
 
 ## Project setup
 
