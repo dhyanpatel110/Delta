@@ -1,4 +1,4 @@
-# Delta
+# Delta ![GitHub repo size](https://img.shields.io/github/repo-size/dhyanpatel110/Delta)
 Delta is a React web application where you can navigate the different pages and we can check the details of that Pages.
 
 # Snapshot
